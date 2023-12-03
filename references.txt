@@ -1,0 +1,4 @@
+Refrences:
+https://medium.com/geekculture/overview-of-recommender-systems-and-implementations-cae13088369
+https://surprise.readthedocs.io/en/stable/matrix_factorization.html
+https://adinasteinman.medium.com/building-a-collaborative-filtering-recommendation-system-in-surprise-91312f8cbbc6
